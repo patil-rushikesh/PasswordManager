@@ -4,7 +4,7 @@
 
 - **Add Password**: Securely add new passwords for various accounts. The password is encrypted before being saved.
 - **View Saved Passwords**: List all saved passwords (passwords are hidden by default).
-- **Reveal Password**: Reveal a password after authentication with a master password.
+- **Reveal Password**: Reveal a password after authentication with a master password (By default Master Password : masterpass). 
 - **Delete Password**: Remove a saved password entry.
 - **Update Password**: Update the password of an existing account and re-encrypt it.
 - **Generate Random Password**: Create strong random passwords with customizable length.
